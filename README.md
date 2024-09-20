@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://i.pinimg.com/originals/52/f8/95/52f8954e4f362d00ff86528e71f5fd98.gif" width="39%" align="left" />
+<img src="https://i.pinimg.com/originals/8f/eb/bf/8febbf18c016bad15e9e07cb70676573.gif" width="39%" align="left" />
 
 <pre>
  👩‍💻 I'm Gabriela Caligares :)
