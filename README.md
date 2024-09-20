@@ -1,6 +1,6 @@
 <div align="center" >
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Amaranth&pause=1000&color=F7C529&width=435&lines=Hello%2C+you!+I'm+Gabriela+Caligares!+%F0%9F%96%96)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Amaranth&size=38&pause=1000&color=F79A15&width=435&lines=Hello%2C+you!++%F0%9F%96%96)
 
 </div>
 
